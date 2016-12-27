@@ -10,7 +10,7 @@ public class MyViewModel {
 
 	@Init
 	public void init() {
-		count = 100;
+		count = 1001212;
 	}
 
 	@Command
